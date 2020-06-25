@@ -9,3 +9,8 @@
 
 省却了识别也让代码少了很多很多，相当于给小朋友做了一个作弊器吧
 
+![1](https://github.com/liuxiaotong15/tiaoyitiao/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200625204936.jpg)
+
+![2](https://github.com/liuxiaotong15/tiaoyitiao/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200625204954.jpg)
+
+![3](https://github.com/liuxiaotong15/tiaoyitiao/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200625205146.jpg)
